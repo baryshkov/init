@@ -1,0 +1,4 @@
+ps -aux | grep ssh
+Kill -9 <PID>
+Or 
+pkill-U username

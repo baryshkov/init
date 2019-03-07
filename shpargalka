@@ -1,0 +1,3 @@
+02
+networksetup -listallhardwareports
+List all interfaces with readable info.
